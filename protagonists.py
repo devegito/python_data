@@ -1,0 +1,13 @@
+protagonist_names=['Goku','Naruto','Ichigo','Deku','Tanjiro','Luffy']
+print(protagonist_names[0])
+print(protagonist_names[1])
+print(protagonist_names[2])
+print(protagonist_names[3])
+print(protagonist_names[4])
+print(protagonist_names[5])
+print("The main protagonist of Dragon ball is " + protagonist_names[0].upper()+".")
+print("The main protagonist of Naruto is "+protagonist_names[1].upper()+".")
+print("The main protagonist of Bleach is "+protagonist_names[2].upper()+".")
+print("The main protagonist of My Hero Academia is "+protagonist_names[3].upper()+".")
+print("The main protagonist of Demon Slayer is "+protagonist_names[4].upper()+".")
+print("The main protagonist of One Piece is "+protagonist_names[5].upper()+".")

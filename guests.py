@@ -1,0 +1,26 @@
+guests=['Goku','Vegeta','Piccolo','Gohan']
+guests[0]='Trunks'
+guests.insert(0,'Goku')
+guests.insert(2,'Beerus')
+guests.insert(3,'Whis')
+guests.append('Yamcha')
+guests.append('Krillin')
+print("Sorry, the table won't arrive — only two guests can come.")
+leaving_guests=guests.pop()
+print("Sorry " + leaving_guests + ", you can't come to the party.")
+leaving_guests=guests.pop()
+print("Sorry " + leaving_guests + ", you can't come to the party.")
+leaving_guests=guests.pop()
+print("Sorry " + leaving_guests + ", you can't come to the party.")
+leaving_guests=guests.pop()
+print("Sorry " + leaving_guests + ", you can't come to the party.")
+leaving_guests=guests.pop()
+print("Sorry " + leaving_guests + ", you can't come to the party.")
+leaving_guests=guests.pop()
+print("Sorry " + leaving_guests + ", you can't come to the party.")
+leaving_guests=guests.pop()
+print("Sorry " + leaving_guests + ", you can't come to the party.")
+print("You are still invited to the party, " + guests[0] + " and " + guests[1] + ".")
+del guests[-1]
+del guests[-1]
+print(guests)

@@ -1,0 +1,4 @@
+message=("Hey! it's me, Goku! I am a Saiyan from the planet Vegeta. I have a power level of over 9000 and I can transform into a Super Saiyan when I get angry. My signature move is the Kamehameha wave, which is a powerful energy blast that can destroy anything in its path. I am always looking for new challenges and opponents to test my strength against. If you want to fight me, be prepared for an intense battle!")
+print(message)
+message=("and i love to eat a lot of food, especially rice and meat. I have a big appetite and can eat huge amounts of food in one sitting. I also enjoy training and pushing myself to become stronger. I have a strong sense of justice and will always fight to protect my friends and loved ones. I am a loyal and determined warrior who will never give up, no matter how tough the battle may be.")
+print(message)
