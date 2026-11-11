@@ -1,0 +1,91 @@
+🐉 PHASE 1: The Foundation (Months 1–2) — You Are Here
+
+Goal: Master the language of the machines and build the safety net.
+
+    Python: Finish Python Crash Course. You need to be comfortable with loops, functions, classes, and file handling.
+
+    Git & GitHub: Finish Pro Git. You must know how to commit, branch, and push to GitHub. (Your code needs a home).
+
+    Basic DSA (Data Structures & Algorithms): Learn arrays, lists, dictionaries, stacks, and queues. (The video was right about this—you need to know how to handle data efficiently).
+
+    Dragon Ball: Kid Goku training with Master Roshi. You are learning to throw a punch and fly. 🐉
+
+🐉 PHASE 2: The Data Discipline (Months 3–4)
+
+Goal: Learn how to manipulate data and build classical AI models.
+
+    Math: Learn just enough Linear Algebra, Calculus, and Probability (Khan Academy). Learn it as you need it.
+
+    Data Stack: Master NumPy (math), Pandas (data manipulation), and Matplotlib (visualization). Learn basic SQL for databases.
+
+    Classical Machine Learning: Learn regression, classification, and clustering using Scikit-Learn.
+
+    Book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Aurélien Géron).
+
+    Dragon Ball: Kaioken. You are boosting your power and learning to read your opponent's moves (data patterns). 🐉
+
+🐉 PHASE 3: The Deep Learning Unlock (Months 5–6)
+
+Goal: Learn how neural networks actually work.
+
+    Deep Learning: Understand Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN - for images), and Recurrent Neural Networks (RNN - for text).
+
+    Framework: Learn PyTorch first (it's more beginner-friendly and academic), then touch TensorFlow later (it's industry standard).
+
+    Book: Deep Learning with PyTorch by Eli Stevens.
+
+    Dragon Ball: Super Saiyan. This is the first major transformation. It's hard, the math is heavy, but it unlocks true power. 🐉
+
+🐉 PHASE 4: The Modern AI Stack (Months 7–8)
+
+Goal: Master the 2026 job market: Large Language Models and RAG.
+
+    LLMs & NLP: Understand how transformers work (BERT, GPT).
+
+    The Modern Stack: Learn Prompt Engineering, RAG (Retrieval-Augmented Generation - connecting LLMs to custom data), and AI Agents (LLMs that use tools). Master frameworks like LangChain or LlamaIndex.
+
+    Book: AI Engineering by Chip Huyen.
+
+    Dragon Ball: Super Saiyan Blue. The refined, modern, incredibly powerful form. This is what companies are paying top dollar for right now. 🐉
+
+🐉 PHASE 5: The Production Arena (Months 9–10)
+
+Goal: Turn your Jupyter Notebooks into real, deployable software.
+
+    Backend & APIs: Learn FastAPI or Flask to wrap your models.
+
+    DevOps: Learn Docker (packaging your app so it runs anywhere).
+
+    Cloud: Deploy your apps to AWS or Render (free tier).
+
+    Book: Designing Machine Learning Systems by Chip Huyen.
+
+    Dragon Ball: Ultra Instinct. The body moves on its own. Your system runs reliably in the real world without crashing. 🐉
+
+🐉 PHASE 6: The Tournament & The Startup (Months 11+)
+
+Goal: Build your portfolio, get hired, or launch your startup.
+
+    Projects: You need 3 to 4 massive projects deployed on GitHub.
+
+        Project 1: The Solo Leveling Dragon Ball App (Your Startup MVP).
+
+        Project 2: A RAG Chatbot. (e.g., a bot that answers questions about Dragon Ball lore).
+
+        Project 3: A Deep Learning App. (e.g., an image classifier or a Fake News Detector).
+
+        Project 4: A Data Dashboard.
+
+    Certifications (Optional): If you need them for a study visa, get AWS Cloud Practitioner or Azure AI Fundamentals now.
+
+    Dragon Ball: The World Martial Arts Tournament. You step into the ring, show the world what you built, and either get hired by a top company or start your own Capsule Corp. 🐉
+
+🚨 The 3 Golden Rules of This Roadmap
+
+    Don't skip the projects. You can't get an AI job or build a startup with just certificates. You need a GitHub portfolio.
+
+    Build as you learn. Don't wait until Phase 6 to build the Solo Leveling app. Start prototyping it in Phase 2, and keep upgrading it as you learn new skills.
+
+    Stay consistent. 3 to 4 hours a day, 5 days a week. Consistency beats intensity every single time.
+
+Save this roadmap. Print it out. Put it on your wall.
