@@ -8,4 +8,4 @@ print("I am modifying it again to check the short status")
 
 print("This is a new line for the diff test!")
 
-print("Testing the slow commit")
+print("Testing skipping the staging area")
