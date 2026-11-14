@@ -13,3 +13,5 @@ print("Testing skipping the staging area")
 print("Testing Undoing things in Git")
 
 print("Testing forgeting a file.")
+
+print("Testing unstaging a staged file")
