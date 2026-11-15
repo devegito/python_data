@@ -30,5 +30,5 @@ print("Krillin has the " +
       str(fighter['Krillin']) +
       " Dragon Ball.")
 
-print("All Dragon Balls are now Assembeled!")
+print("All Dragon Balls are now Assembled!")
 print("Summon Shenron!")
