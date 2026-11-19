@@ -24,14 +24,14 @@ for saibaman in range(10):
         'Power' : 1200
     }
     saibaman_army.append(new_saibaman)
-    print(saibaman_army[:3])
-    print(len(saibaman_army))
+print(saibaman_army[:3])
+print(len(saibaman_army))
 
     # --- PART 3 THE UPGRADE ---
 
-    for saibaman in saibaman_army[:5]:
-        if saibaman['Color'] == 'Green':
-            saibaman['Color'] = 'Yellow'
-            saibaman['Power'] = 2500
-    for saibaman in saibaman_army[:5]:
-        print(saibaman)
+for saibaman in saibaman_army[:5]:
+    if saibaman['Color'] == 'Green':
+        saibaman['Color'] = 'Yellow'
+        saibaman['Power'] = 2500
+for saibaman in saibaman_army[:5]:
+    print(saibaman)
