@@ -12,6 +12,6 @@ multiverse = {
 }
 for universe_name, info in multiverse.items():
     print("\nUniverse: " + universe_name)
-    print("\nGod: " + info['God'])
-    print("\nAngel: " + info['Angel'])
-    print("\nTop Fighter: " + info['Top Fighter'])
+    print("\tGod: " + info['God'])
+    print("\tAngel: " + info['Angel'])
+    print("\tTop Fighter: " + info['Top Fighter'])
